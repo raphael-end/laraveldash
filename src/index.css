@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap');
+
+*{
+    line-height: 1;
+}
+
+body{
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 280px 1fr;
+}
+
+.header{
+    height: 60px;
+}
